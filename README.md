@@ -1,2 +1,1 @@
-# hpa_topic
-Topic Modelling with the HPA (Tomotopy) model
+# Simple Topic Modelling with the Hierarchical Pachinko Allocation model
