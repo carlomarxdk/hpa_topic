@@ -1,1 +1,2 @@
-# Simple Topic Modelling with the Hierarchical Pachinko Allocation model
+# Simple Topic Modelling Examples
+1. Hierarchical Pachinko Allocation model
